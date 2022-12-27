@@ -1,10 +1,10 @@
-<kbd><img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/a617/live/4c8ad930-65d9-11ed-a6af-4f332dcec329.jpg" width="900" height="400"/></kbd>
-
----
-
 <h1>
-    <p style="text-align: center;"> Copa do Mundo da FIFA Quatar 2022: A Seleção dos Dados 🏆</p>
+    <p align="center">
+        Copa do Mundo da FIFA Quatar 2022: A Seleção dos Dados 🏆
+    </p>
 </h1>
+
+<kbd><img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/a617/live/4c8ad930-65d9-11ed-a6af-4f332dcec329.jpg" width="900" height="400"/></kbd>
 
 ---
 
