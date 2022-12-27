@@ -6,6 +6,7 @@
 
 <kbd><img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/a617/live/4c8ad930-65d9-11ed-a6af-4f332dcec329.jpg" width="900" height="400"/></kbd>
 
+*WORK IN PROGRESS* 🛠️
 ---
 
 ## Objetivo 🎯
@@ -20,3 +21,19 @@ Foi com essa curiosidade que decidimos analisar os dados dessa copa para tentar 
 
 ---
 
+## Metodologia 📊
+
+Para podermos escalar a seleção perfeita precisamos conhecer os jogadores e seus principais indicadores de performance. Para isso, ao entrarmos em contato com o [dataset](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data) contendo as informações dos jogadores, baseamos nossas análises com base nas posições dos atletas:
+
+| Posição_Sigla | Nome                      |
+|---------------|---------------------------|
+| GK            | Goleiro (Goalkeeper)      |
+| DF            | Zagueiro (Defense)        |
+| MF            | Meio-Campista (Midfielder)|
+| FW            | Atacante (Forward)        |
+
+Assim, delimitamos os indicadores centrais para cada área de atuação dos jogadores e realizamos nossas análises, buscando os atletas com os melhores números para compor nossa seleção.
+
+---
+
+## 
